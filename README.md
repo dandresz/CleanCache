@@ -5,7 +5,7 @@ Plugin para limpiar la caché del dispositivo y optimizar la memoria
 ## Install
 
 ```bash
-npm i dasz-clean-cache
+npm i clean-cache-dansz
 npx cap sync
 ```
 
